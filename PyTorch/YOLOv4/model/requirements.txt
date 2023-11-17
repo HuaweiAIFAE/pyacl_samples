@@ -1,0 +1,12 @@
+onnx
+onnxruntime
+matplotlib
+pycocotools
+tqdm==4.43.0
+torch==1.4.0
+Pillow==7.1.2
+numpy==1.18.2
+easydict==1.9
+opencv_python
+tensorboardX==2.0
+scikit_image==0.16.2

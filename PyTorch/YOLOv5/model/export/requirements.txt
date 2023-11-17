@@ -1,0 +1,13 @@
+tqdm
+numpy
+pandas
+PyYAML
+Pillow
+seaborn
+requests
+matplotlib
+onnx
+onnxruntime
+opencv-python
+torch==1.10.2
+torchvision==0.11.3

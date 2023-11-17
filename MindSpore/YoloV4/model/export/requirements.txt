@@ -1,0 +1,6 @@
+mindspore==1.9.0
+mindspore_ascend==1.8.0
+numpy
+opencv_python==4.6.0.66
+Pillow==9.3.0
+PyYAML==6.0
